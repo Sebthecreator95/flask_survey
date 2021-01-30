@@ -1,0 +1,11 @@
+body {
+	align-items: center;
+	background: rgb(95, 121, 153);
+}
+form {
+	border: 5 px white;
+}
+button {
+	background: rgb(0, 255, 157);
+	text-emphasis-color: darkblue;
+}
